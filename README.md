@@ -1,15 +1,6 @@
-Perfeito, vamos usar o **estilo lado-a-lado (opção 3)**.
-Vou agora entregar o **README final**, já formatado para GitHub, com seções específicas para você colocar **duas imagens lado a lado**, como mostrado no Eclipse.
-
-> **Importante:** Crie uma pasta `readme_img/` no repositório e salve suas imagens usando estes nomes:
-> `execucao_teste_1.png` e `execucao_teste_2.png`
-> (Você pode renomear, se quiser — basta ajustar no README.)
-
----
 
 ### ✅ **README.md (Versão Final Profissional + Imagens Lado a Lado)**
 
-```markdown
 # 🧪 Sistema Bancário - Testes de Software (JUnit + Testes Manuais)
 
 Este repositório apresenta um projeto de testes aplicado sobre um **Sistema Bancário Simples**, com foco no estudo e prática das principais técnicas de **Teste de Software**, conforme abordado no curso do professor **Gustavo Farias**.
@@ -20,11 +11,9 @@ Foram aplicados:
 
 O objetivo central é demonstrar a importância da Garantia de Qualidade (QA) no ciclo de desenvolvimento e como testes bem planejados reduzem falhas e aumentam a confiabilidade do sistema.
 
----
 
 ## 🏛 Estrutura do Sistema Testado
 
-```
 
 src/
 └─ negocio/
@@ -34,21 +23,17 @@ src/
 ├─ GerenciadoraContas.java
 └─ IdadeNaoPermitidaException.java
 
-```
-
 ### Principais Regras Validada no Sistema:
 - Cadastro e remoção de clientes
 - Validação de idade mínima
 - Transferência de valores entre contas
 - Consulta e alteração de saldo
 
----
 
 ## 🤖 Testes Automatizados com JUnit
 
 A automação está localizada em:
 
-```
 
 testes/
 └─ negocio/
@@ -58,7 +43,6 @@ testes/
 ├─ GerenciadoraContasTest_Ex6.java
 └─ TodosOsTestes.java   ← Suite para execução geral
 
-````
 
 ### ✔️ Execução da Suíte de Testes
 
