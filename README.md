@@ -55,7 +55,7 @@ testes/
 public class TodosOsTestes { }
 ````
 
-### 📷 Evidência de Execução (Lado a Lado)
+### 📷 Evidência de Execução 
 
 | Execução dos Testes                            | Estrutura e Organização                       |
 | ---------------------------------------------- | --------------------------------------------- |
