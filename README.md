@@ -1,6 +1,4 @@
 
-### ✅ **README.md (Versão Final Profissional + Imagens Lado a Lado)**
-
 # 🧪 Sistema Bancário - Testes de Software (JUnit + Testes Manuais)
 
 Este repositório apresenta um projeto de testes aplicado sobre um **Sistema Bancário Simples**, com foco no estudo e prática das principais técnicas de **Teste de Software**, conforme abordado no curso do professor **Gustavo Farias**.
@@ -61,7 +59,7 @@ public class TodosOsTestes { }
 
 | Execução dos Testes                            | Estrutura e Organização                       |
 | ---------------------------------------------- | --------------------------------------------- |
-| ![execucao](./readme_img/execucao_teste_1.png) | ![projeto](./readme_img/execucao_teste_2.png) |
+| ![execucao](./Readme_img/execucao_teste_1.png.png) | ![projeto](./Readme_img/execucao_teste_2.png.png) |
 
 ---
 
@@ -93,43 +91,14 @@ Além dos testes automatizados, foram definidos cenários funcionais, seguindo c
 2. Verificar se o **JUnit 4** está adicionado ao *Build Path*
 3. Executar:
 
-   ```
-   testes/negocio/TodosOsTestes.java → Run As → JUnit Test
-   ```
 
----
+   testes/negocio/TodosOsTestes.java → Run As → JUnit Test
+
 
 ## 👤 Autor
 
 **Leandro Santos**
 🔗 GitHub: [https://github.com/Leandro-Pinheiro-Dev](https://github.com/Leandro-Pinheiro-Dev)
 
----
 
 > *“O testador não procura apenas erros — ele protege a experiência do usuário.”*
-
-```
-
----
-
-### ✅ Agora falta **apenas 1 passo:**
-
-Crie esta pasta no seu repositório:
-
-```
-
-/readme_img
-
-```
-
-E salve dentro dela:
-
-| Nome sugerido | Conteúdo |
-|---------------|----------|
-| `execucao_teste_1.png` | Print da tela de execução JUnit |
-| `execucao_teste_2.png` | Print da estrutura do projeto no Eclipse |
-
-Se quiser, posso **cortar, ajustar contraste e padronizar o tamanho das imagens** para ficar mais profissional.  
-Quer que eu faça isso?  
-**Responda: SIM** e me envie **as duas imagens** aqui.
-```
